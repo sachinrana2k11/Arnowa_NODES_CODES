@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "ESP32_BLE_DHT_SENSOR"
+		},
+		{
+			"path": "ESP32_BLE_GAS_SENSOR"
+		},
+		{
+			"path": "ESP32_BLE_LDR_SENSOR"
+		},
+		{
+			"path": "ESP32_WIFI_DHT_CONTROLLER_DA"
+		},
+		{
+			"path": "ESP32_WIFI_DHT_SENSOR"
+		},
+		{
+			"path": "ESP32_WIFI_GAS_SENSOR"
+		},
+		{
+			"path": "ESP32_WIFI_LDR_SENSOR"
+		},
+		{
+			"path": "BLE_SCAN_ESP32"
+		},
+		{
+			"path": ".",
+			"name": "NODES_CODE"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\SPB_Data\\.platformio\\penv\\Scripts;C:\\SPB_Data\\.platformio\\penv;C:\\python3.7\\Scripts\\;C:\\python3.7\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\ArchestrA\\;C:\\python3\\Scripts\\;C:\\python3\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Microsoft SDKs\\Azure\\CLI\\wbin;C:\\Program Files\\Zerynth\\ztc\\windows64;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\CooCox\\CoIDE_V2Beta\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Microchip\\xc8\\v1.45\\bin;C:\\Program Files (x86)\\Microchip\\xc16\\v1.33\\bin;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\MinGW\\bin;C:\\Program Files\\nodejs\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Users\\SACHIN RANA\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Heroku\\bin;C:\\Users\\SACHIN RANA\\AppData\\Local\\particledev\\bin;C:\\Users\\SACHIN RANA\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\LLVM\\bin;\";C:\\Program Files\\nodejs\\\";C:\\Users\\SACHIN RANA\\AppData\\Roaming\\npm;C:\\Users\\SACHIN RANA\\AppData\\Local\\atom\\bin;C:\\Program Files\\JetBrains\\WebStorm 2018.3.1\\bin;;C:\\Program Files\\JetBrains\\PyCharm_prof_2018.3.1\\bin;;C:\\Microsoft VS Code\\bin;C:\\python3.7\\Scripts\\;C:\\python3.7\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\ArchestrA\\;C:\\python3\\Scripts\\;C:\\python3\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Microsoft SDKs\\Azure\\CLI\\wbin;C:\\Program Files\\Zerynth\\ztc\\windows64;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\CooCox\\CoIDE_V2Beta\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Microchip\\xc8\\v1.45\\bin;C:\\Program Files (x86)\\Microchip\\xc16\\v1.33\\bin;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\MinGW\\bin;C:\\Program Files\\nodejs\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Users\\SACHIN RANA\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Heroku\\bin;C:\\Users\\SACHIN RANA\\AppData\\Local\\particledev\\bin;C:\\Users\\SACHIN RANA\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\LLVM\\bin;\";C:\\Program Files\\nodejs\\\";C:\\Users\\SACHIN RANA\\AppData\\Roaming\\npm;C:\\Users\\SACHIN RANA\\AppData\\Local\\atom\\bin;C:\\Program Files\\JetBrains\\WebStorm 2018.3.1\\bin;;C:\\Program Files\\JetBrains\\PyCharm_prof_2018.3.1\\bin;;C:\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
